@@ -11,7 +11,7 @@ Looking forward to continuing to contribute to the open source community for yea
 
 Contributions are always welcome!
 
-See `contributing.md` for ways to get started.
+See [`contributing.md`](https://github.com/auxiliarypkgs/.github/blob/main/contributing.md) for ways to get started.
 
 ## Support
 
